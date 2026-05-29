@@ -89,11 +89,14 @@ The API project demonstrates how external customers could consume the library in
 
 ## AI Usage Disclosure
 
-AI assistance was used for:
+AI tools were used for minor refinement, debugging assistance, documentation improvements, and validation support.
 
-* code cleanup
-* architectural guidance
-* documentation refinement
+Core architecture, implementation logic, testing, and solution design were completed manually.
 
-Core implementation logic and project assembly were completed manually as part of the engineering exercise.
-Built using C# and .NET 8
+### AI Tool Used
+
+* ChatGPT
+
+### Example AI Prompt
+
+"Help review and validate a production-ready C# implementation for an old phone keypad decoding library with REST API wrapper, unit tests, Swagger support, and documentation."
