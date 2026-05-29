@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldPhonePadLibrary", "OldPhonePadLibrary\OldPhonePadLibrary.csproj", "{FA64EFDC-8F81-4E2D-A757-54CA61CF55E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldPhonePadApi", "OldPhonePadApi\OldPhonePadApi.csproj", "{017F4778-9478-4520-B8DC-20934266B70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldPhonePadTests", "OldPhonePadTests\OldPhonePadTests.csproj", "{AD7AA2B3-D28C-4504-81F6-F873403510E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA64EFDC-8F81-4E2D-A757-54CA61CF55E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA64EFDC-8F81-4E2D-A757-54CA61CF55E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA64EFDC-8F81-4E2D-A757-54CA61CF55E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA64EFDC-8F81-4E2D-A757-54CA61CF55E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017F4778-9478-4520-B8DC-20934266B70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017F4778-9478-4520-B8DC-20934266B70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017F4778-9478-4520-B8DC-20934266B70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017F4778-9478-4520-B8DC-20934266B70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7AA2B3-D28C-4504-81F6-F873403510E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7AA2B3-D28C-4504-81F6-F873403510E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7AA2B3-D28C-4504-81F6-F873403510E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7AA2B3-D28C-4504-81F6-F873403510E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
