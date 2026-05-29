@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OldPhonePadApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e74fe612031cf07bd568be3a73976d63f8e84089")]
 [assembly: System.Reflection.AssemblyProductAttribute("OldPhonePadApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OldPhonePadApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

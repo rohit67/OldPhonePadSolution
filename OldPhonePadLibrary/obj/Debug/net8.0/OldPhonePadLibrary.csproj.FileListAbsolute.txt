@@ -5,6 +5,7 @@
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadLibrary/obj/Debug/net8.0/OldPhonePadLibrary.AssemblyInfoInputs.cache
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadLibrary/obj/Debug/net8.0/OldPhonePadLibrary.AssemblyInfo.cs
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadLibrary/obj/Debug/net8.0/OldPhonePadLibrary.csproj.CoreCompileInputs.cache
+/Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadLibrary/obj/Debug/net8.0/OldPhonePadLibrary.sourcelink.json
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadLibrary/obj/Debug/net8.0/OldPhonePadLibrary.dll
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadLibrary/obj/Debug/net8.0/refint/OldPhonePadLibrary.dll
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadLibrary/obj/Debug/net8.0/OldPhonePadLibrary.pdb

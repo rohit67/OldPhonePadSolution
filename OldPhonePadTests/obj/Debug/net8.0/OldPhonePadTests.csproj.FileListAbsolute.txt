@@ -93,6 +93,7 @@
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadTests/obj/Debug/net8.0/OldPhonePadTests.AssemblyInfoInputs.cache
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadTests/obj/Debug/net8.0/OldPhonePadTests.AssemblyInfo.cs
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadTests/obj/Debug/net8.0/OldPhonePadTests.csproj.CoreCompileInputs.cache
+/Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadTests/obj/Debug/net8.0/OldPhonePadTests.sourcelink.json
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadTests/obj/Debug/net8.0/OldPhone.69BDE485.Up2Date
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadTests/obj/Debug/net8.0/OldPhonePadTests.dll
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadTests/obj/Debug/net8.0/refint/OldPhonePadTests.dll

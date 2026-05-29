@@ -19,6 +19,7 @@
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadApi/obj/Debug/net8.0/OldPhonePadApi.csproj.CoreCompileInputs.cache
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadApi/obj/Debug/net8.0/OldPhonePadApi.MvcApplicationPartsAssemblyInfo.cs
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadApi/obj/Debug/net8.0/OldPhonePadApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadApi/obj/Debug/net8.0/OldPhonePadApi.sourcelink.json
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadApi/obj/Debug/net8.0/staticwebassets.build.json
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadApi/obj/Debug/net8.0/staticwebassets.development.json
 /Users/rohittripathi_1/Desktop/OldPhonePadSolution/OldPhonePadApi/obj/Debug/net8.0/staticwebassets/msbuild.OldPhonePadApi.Microsoft.AspNetCore.StaticWebAssets.props
