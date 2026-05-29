@@ -96,3 +96,4 @@ AI assistance was used for:
 * documentation refinement
 
 Core implementation logic and project assembly were completed manually as part of the engineering exercise.
+Built using C# and .NET 8
